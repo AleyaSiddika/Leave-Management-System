@@ -1,0 +1,14 @@
+F:\AIUB\Department Study\OOP2\My Codes\Leave Management System\Leave Management System\bin\Debug\Leave Management System.exe.config
+F:\AIUB\Department Study\OOP2\My Codes\Leave Management System\Leave Management System\bin\Debug\Leave Management System.exe
+F:\AIUB\Department Study\OOP2\My Codes\Leave Management System\Leave Management System\bin\Debug\Leave Management System.pdb
+F:\AIUB\Department Study\OOP2\My Codes\Leave Management System\Leave Management System\obj\Debug\Leave Management System.csprojResolveAssemblyReference.cache
+F:\AIUB\Department Study\OOP2\My Codes\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.Properties.Resources.resources
+F:\AIUB\Department Study\OOP2\My Codes\Leave Management System\Leave Management System\obj\Debug\Leave Management System.csproj.GenerateResource.Cache
+F:\AIUB\Department Study\OOP2\My Codes\Leave Management System\Leave Management System\obj\Debug\Leave Management System.exe
+F:\AIUB\Department Study\OOP2\My Codes\Leave Management System\Leave Management System\obj\Debug\Leave Management System.pdb
+F:\AIUB\Department Study\OOP2\My Codes\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.Form5.resources
+F:\AIUB\Department Study\OOP2\My Codes\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.Login.resources
+F:\AIUB\Department Study\OOP2\My Codes\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.SignUp.resources
+F:\AIUB\Department Study\OOP2\My Codes\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.Admin1.resources
+F:\AIUB\Department Study\OOP2\My Codes\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.Admin2.resources
+F:\AIUB\Department Study\OOP2\My Codes\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.Apply.resources
